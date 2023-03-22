@@ -1,0 +1,15 @@
+.headerStyle{
+    color: white;
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.headerStyle li {
+    margin: 0px 20px;
+}
+.headerStyle li a{
+    color: white;
+    text-decoration: none;
+    font-family: roboto;
+}
